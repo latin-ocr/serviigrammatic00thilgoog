@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./serviigrammatic00thilgoog_0008.png"; bbox 0 0 3396 5422; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 704 2186 1156 2259">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 704 2186 1156 2259">
+     <span class='ocr_line' id='line_1_1' title="bbox 704 2186 1156 2259; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 704 2186 960 2259; x_wconf 80' lang='lat' dir='ltr'><strong>MEMORIAE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1151 2198 1156 2209; x_wconf 89' lang='grc'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 341 2504 1329 2624">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 341 2504 1329 2624">
+     <span class='ocr_line' id='line_1_2' title="bbox 341 2504 1329 2624; baseline 0 -23"><span class='ocrx_word' id='word_1_3' title='bbox 341 2504 789 2602; x_wconf 81' lang='lat' dir='ltr'><strong>FRIDERIOI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 834 2504 1329 2624; x_wconf 81' lang='lat' dir='ltr'>RITSOHELH</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 749 2856 926 2923">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 749 2856 926 2923">
+     <span class='ocr_line' id='line_1_3' title="bbox 749 2856 926 2923; baseline 0 -2"><span class='ocrx_word' id='word_1_5' title='bbox 749 2856 926 2923; x_wconf 76' lang='lat' dir='ltr'>SAORVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1702 5422">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1702 5422">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1702 5422; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1702 5422; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
